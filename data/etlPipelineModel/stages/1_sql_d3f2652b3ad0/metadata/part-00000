@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1534269544637,"sparkVersion":"2.3.1","uid":"sql_d3f2652b3ad0","paramMap":{"statement":"SELECT * from __THIS__ WHERE text is not null AND label is not null"}}

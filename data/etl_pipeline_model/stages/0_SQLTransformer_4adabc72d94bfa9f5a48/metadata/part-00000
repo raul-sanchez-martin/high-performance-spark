@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1534269528455,"sparkVersion":"2.3.1","uid":"SQLTransformer_4adabc72d94bfa9f5a48","paramMap":{"statement":"SELECT label, text FROM __THIS__"}}

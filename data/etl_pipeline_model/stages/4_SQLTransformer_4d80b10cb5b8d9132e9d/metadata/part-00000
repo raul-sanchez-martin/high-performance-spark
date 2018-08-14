@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1534269528819,"sparkVersion":"2.3.1","uid":"SQLTransformer_4d80b10cb5b8d9132e9d","paramMap":{"statement":"SELECT *, size(text_token) as count FROM __THIS__"}}
